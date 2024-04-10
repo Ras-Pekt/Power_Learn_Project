@@ -1,0 +1,102 @@
+The Adventures of Tom Sawyer, Mark Twain, True
+The Lord of the Rings, J. R. R. Tolkien, False
+Pride and Prejudice, Jane Austen, True
+To Kill a Mockingbird, Harper Lee, False
+The Catcher in the Rye, J. D. Salinger, True
+The Great Gatsby, F. Scott Fitzgerald, False
+One Hundred Years of Solitude, Gabriel García Márquez, True
+Crime and Punishment, Fyodor Dostoevsky, False
+In Search of Lost Time, Marcel Proust, True
+Invisible Man, Ralph Ellison, False
+Beloved, Toni Morrison, True
+Don Quixote, Miguel de Cervantes, False
+The Odyssey, Homer, True
+Ulysses, James Joyce, False
+Hamlet, William Shakespeare, True
+One Flew Over the Cuckoo's Nest, Ken Kesey, False
+The Grapes of Wrath, John Steinbeck, True
+The Metamorphosis, Franz Kafka, False
+Moby Dick, Herman Melville, True
+War and Peace, Leo Tolstoy, False
+Anna Karenina, Leo Tolstoy, True
+The Adventures of Huckleberry Finn, Mark Twain, False
+The Handmaid's Tale, Margaret Atwood, True
+1984, George Orwell, False
+Animal Farm, George Orwell, True
+The God of Small Things, Arundhati Roy, False
+The Remains of the Day, Kazuo Ishiguro, True
+Cloud Atlas, David Mitchell, False
+Never Let Me Go, Kazuo Ishiguro, True
+The Wind in the Willows, Kenneth Grahame, False
+The Secret History, Donna Tartt, True
+A Confederacy of Dunces, John Kennedy Toole, False
+The Book Thief, Markus Zusak, True
+Life of Pi, Yann Martel, False
+The Color Purple, Alice Walker, True
+Things Fall Apart, Chinua Achebe, False
+Americanah, Chimamanda Ngozi Adichie, True
+Half of a Yellow Sun, Chimamanda Ngozi Adichie, False
+Teju Cole, Open City, True
+There There, Tommy Orange, False
+Exit West, Mohsin Hamid, True
+Milkman, Anna Burns, False
+Lincoln in the Bardo, George Saunders, True
+Flights, Olga Tokarczuk, False
+Klara and the Sun, Kazuo Ishiguro, True
+The Ministry for the Future, Kim Stanley Robinson, False
+A Gentleman in Moscow, Amor Towles, True
+Cloud Cuckoo Land, Anthony Doerr, False
+The Overstory, Richard Powers, True
+Treasure Island, Robert Louis Stevenson, False
+The Call of the Wild, Jack London, True
+The Jungle Book, Rudyard Kipling, False
+The Hunger Games, Aldous Huxley, false
+The Odyssey, Leo Tolstoy, false
+The Adventures of Huckleberry Finn, Leo Tolstoy, false
+Little Women, William Shakespeare, false
+The Da Vinci Code, Herman Melville, true
+Dracula, George Orwell, false
+Harry Potter and the Sorcerer's Stone, Frank Herbert, false
+Animal Farm, William Shakespeare, false
+The Girl with the Dragon Tattoo, Mary Shelley, false
+The Girl with the Dragon Tattoo, Margaret Mitchell, true
+Anne of Green Gables, Dan Brown, false
+The Iliad, L. Frank Baum, false
+Pride and Prejudice, Miguel de Cervantes, true
+The Da Vinci Code, Frank Herbert, false
+Macbeth, Kathryn Stockett, true
+The Picture of Dorian Gray, Homer, false
+Crime and Punishment, J.R.R. Tolkien, false
+The Scarlet Letter, Harper Lee, false
+Dune, Arthur Conan Doyle, true
+Ender's Game, L. Frank Baum, true
+Frankenstein, Dante Alighieri, false
+War and Peace, Alexandre Dumas, false
+The Hunger Games, Leo Tolstoy, false
+The Adventures of Sherlock Holmes, Orson Scott Card, false
+Dune, Frank Herbert, false
+Dracula, Jane Austen, false
+Fahrenheit 451, F. Scott Fitzgerald, false
+Dracula, Bram Stoker, false
+The Odyssey, J.D. Salinger, true
+The Canterbury Tales, Jane Austen, true
+The Count of Monte Cristo, Victor Hugo, true
+Anne of Green Gables, Mark Twain, false
+The Girl with the Dragon Tattoo, F. Scott Fitzgerald, true
+Don Quixote, Herman Melville, true
+The Hobbit, Herman Melville, false
+Little Women, Dan Brown, false
+The Road, Herman Melville, false
+The Wonderful Wizard of Oz, Mark Twain, true
+Jane Eyre, J.K. Rowling, false
+Brave New World, Charlotte Brontë, true
+Frankenstein, Charlotte Brontë, false
+The Martian, Margaret Mitchell, true
+Dracula, Suzanne Collins, true
+The Odyssey, Frank Herbert, false
+The Iliad, Alexandre Dumas, true
+The Iliad, Homer, true
+Anna Karenina, Dan Brown, true
+To Kill a Mockingbird, F. Scott Fitzgerald, true
+Hamlet, Orson Scott Card, false
+The Wonderful Wizard of Oz, Dante Alighieri, false
